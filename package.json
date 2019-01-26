@@ -1,6 +1,6 @@
 {
   "name": "pl-ejs-html-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack 4 loader for rendering HTML from EJS templates",
   "main": "lib/index.js",
   "scripts": {
@@ -56,7 +56,6 @@
     "istanbul": "1.1.0-alpha.1",
     "mocha": "^5.2.0",
     "relative-path-map": "^1.0.1",
-    "rimraf": "^2.6.3",
     "webpack": "^4.29.0"
   }
 }
